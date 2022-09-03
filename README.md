@@ -4,6 +4,10 @@ This Project aims to classify correct and incorrect posture for ForeArm and High
 
 This can correct posture of people performing excercise without any guidance and can be used as a digital trainer.
 
+Prerequists
+MediaPipe Library
+SymPy Library
+
 
 
 
